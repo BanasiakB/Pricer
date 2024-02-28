@@ -3,7 +3,7 @@
 European option pricing application, which provide both analytical and numerical solutions. 
 Additionally, program calculates $\Delta$ for every option pricing.
 
-It is a last assignment in QuantScholarship 2023 from Credit Suisse.
+It is a final assignment in QuantScholarship 2023 from Credit Suisse.
 
 ## Table of Contents
 
