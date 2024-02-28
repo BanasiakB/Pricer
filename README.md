@@ -17,7 +17,7 @@ To run this application, you will need to install the .NET SDK, which provides t
 ### 1. Install .NET:
 
 #### Windows:
-1. Visit the .NET downloads page on the official Microsoft website.
+1. Visit the [.NET downloads](https://dotnet.microsoft.com/en-us/download) page on the official Microsoft website.
 2. Download the latest version of the .NET SDK for Windows.
 3. Follow the installation instructions provided by the installer
 
