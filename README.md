@@ -1,7 +1,7 @@
 # Pricer
 
 European option pricing application, which provide both analytical and numerical solutions. 
-Additionally, program calculates $\Delta$ for every option pricing.
+Additionally, program calculates $\Delta$ for every priced option.
 
 It is a final assignment in QuantScholarship 2023 from Credit Suisse.
 
